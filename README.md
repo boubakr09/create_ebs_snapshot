@@ -6,7 +6,7 @@ We can use python [script](https://github.com/boubakr09/create_ebs_snapshot/blob
 
 ## Run script
 
-Run the command bellow:
+Run the bellow command:
 
 ```
 python3 create_ebs_snapshot.py
